@@ -23,4 +23,5 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 20px 5%;
+    text-align: right;
 }
