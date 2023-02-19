@@ -1,0 +1,26 @@
+:root {
+    --color-primary: #0096cc;
+    --color-primary-dark: #005472;
+
+    --color-white: #eee;
+    --color-black: #0f0f0f;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+
+}
+
+header {
+    background-color: var(--color-primary-dark);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 5%;
+}
